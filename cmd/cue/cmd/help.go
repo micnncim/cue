@@ -196,7 +196,7 @@ interpreted as data. CUE and Go are interpreted as schema by
 default, but may be selected to operate in data mode.
 
 The cue tool will infer a file's type from its extension by
-default. The user my override this behavior by using qualifiers.
+default. The user may override this behavior by using qualifiers.
 A qualifier takes the form
 
     <tag>{'+'<tag>}':'
